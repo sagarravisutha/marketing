@@ -24,5 +24,9 @@ public class TreeTest {
 	public void vegetables() {
 		System.out.println("updated");
 	}
+	@Test 
+	public void birds() {
+		System.out.println("birds sit on the branches");
+	}
 
 }
