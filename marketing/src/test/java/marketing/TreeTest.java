@@ -14,6 +14,11 @@ public class TreeTest {
 	@Test
 	public void branches() {
 		System.out.println("3rd method in second class executed");
+		
+	}
+	@Test
+	public void fruits() {
+		System.out.println("updated ");
 	}
 
 }
