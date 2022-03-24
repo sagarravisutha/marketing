@@ -28,5 +28,12 @@ public class TreeTest {
 	public void birds() {
 		System.out.println("birds sit on the branches");
 	}
+		
+		@Test
+		public void cows()
+		{
+			System.out.println("cows give milk");
+		}
+	}
 
-}
+
