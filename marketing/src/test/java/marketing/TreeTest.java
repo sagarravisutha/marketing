@@ -20,5 +20,9 @@ public class TreeTest {
 	public void fruits() {
 		System.out.println("updated ");
 	}
+	@Test
+	public void vegetables() {
+		System.out.println("updated");
+	}
 
 }
