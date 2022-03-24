@@ -12,5 +12,9 @@ public class PlantTest{
 	public void grow2() {
 		System.out.println("Hello executed 2nd method ");
 	}
+	@Test
+	public void grow3() {
+		System.out.println("running 3rd test case ");
+	}
 
 }
